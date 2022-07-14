@@ -1,1 +1,1 @@
-Projeto de OCR, o próximo update seráecho "# OCR" >> README.md para colocar um tradutor de inglês para os textos. # OCR
+Projeto de OCR, o próximo update será para colocar um tradutor de inglês para os textos. # OCR
