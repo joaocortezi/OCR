@@ -2,6 +2,7 @@ Projeto de OCR, que extrai o texto de imagens.
 
 Foi implementado um tradutor para 113 línguas, de padrão está para o portugês. 
 abaixo temos a lista para quais idiomas ele consegue fazer a tradução. 
+
 LANGUAGES = {
     'af': 'afrikaans',
     'sq': 'albanian',
